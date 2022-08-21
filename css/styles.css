@@ -14,7 +14,8 @@ text-align:center;
 .Beef{
 
 text-align:center;
-  background:#959595;
+  background-color:#959595;
+  align-items:center;
   
 
 }
@@ -25,5 +26,9 @@ text-align:center;
 text-align:center;
   background:#959595;
   
+
+}
+.Chicken-headline{
+text-align:center;
 
 }
